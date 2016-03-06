@@ -1,0 +1,1491 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .metadata\
+* .metadata\.lock
+* .metadata\.plugins\
+* .metadata\.plugins\org.eclipse.cdt.core\
+* .metadata\.plugins\org.eclipse.cdt.core\.log
+* .metadata\.plugins\org.eclipse.cdt.make.core\
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.c
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp
+* .metadata\.plugins\org.eclipse.core.resources\
+* .metadata\.plugins\org.eclipse.core.resources\.root\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\1.tree
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources
+* .metadata\.plugins\org.eclipse.core.runtime\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs
+* .metadata\.plugins\org.eclipse.e4.workbench\
+* .metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi
+* .metadata\.plugins\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache
+* .metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache
+* .metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat
+* .metadata\.plugins\org.eclipse.jdt.ui\
+* .metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\
+* .metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+* .metadata\version.ini
+* esperimenti\
+* esperimenti\12-07-2013\
+* esperimenti\12-07-2013\2\
+* esperimenti\12-07-2013\2\delaya.dat
+* esperimenti\12-07-2013\2\delayb.dat
+* esperimenti\12-07-2013\2\delayc.dat
+* esperimenti\12-07-2013\2\delayd.dat
+* esperimenti\12-07-2013\2\delaye.dat
+* esperimenti\12-07-2013\2\delayf.dat
+* esperimenti\12-07-2013\3\
+* esperimenti\12-07-2013\3\1-delaya.dat
+* esperimenti\12-07-2013\3\1-delayb.dat
+* esperimenti\12-07-2013\3\1-delayc.dat
+* esperimenti\12-07-2013\3\1-delayd.dat
+* esperimenti\12-07-2013\3\1-delaye.dat
+* esperimenti\12-07-2013\3\1-delayf.dat
+* esperimenti\12-07-2013\delayA.dat
+* esperimenti\12-07-2013\delayB.dat
+* esperimenti\12-07-2013\delayC.dat
+* esperimenti\12-07-2013\delayD.dat
+* esperimenti\12-07-2013\delayE.dat
+* esperimenti\12-07-2013\delayF.dat
+* esperimenti\12-07-2013\tempi.xls
+* esperimenti\2013-07-12\
+* esperimenti\2013-07-12\ore13-56\
+* esperimenti\2013-07-12\ore13-56\1-delaya.dat
+* esperimenti\2013-07-12\ore13-56\1-delayb.dat
+* esperimenti\2013-07-12\ore13-56\1-delayc.dat
+* esperimenti\2013-07-12\ore13-56\1-delayd.dat
+* esperimenti\2013-07-12\ore13-56\1-delaye.dat
+* esperimenti\2013-07-12\ore13-56\1-delayf.dat
+* esperimenti\2013-07-12\ore13-56\script.sh
+* esperimenti\2013-07-12\ore14-18\
+* esperimenti\2013-07-12\ore14-18\delays\
+* esperimenti\2013-07-12\ore14-18\delays\1-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\1-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\1-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\1-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\1-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\1-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\10-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\10-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\10-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\10-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\10-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\10-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\2-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\2-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\2-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\2-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\2-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\2-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\3-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\3-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\3-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\3-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\3-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\3-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\4-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\4-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\4-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\4-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\4-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\4-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\5-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\5-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\5-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\5-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\5-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\5-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\6-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\6-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\6-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\6-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\6-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\6-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\7-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\7-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\7-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\7-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\7-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\7-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\8-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\8-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\8-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\8-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\8-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\8-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\9-delaya.dat
+* esperimenti\2013-07-12\ore14-18\delays\9-delayb.dat
+* esperimenti\2013-07-12\ore14-18\delays\9-delayc.dat
+* esperimenti\2013-07-12\ore14-18\delays\9-delayd.dat
+* esperimenti\2013-07-12\ore14-18\delays\9-delaye.dat
+* esperimenti\2013-07-12\ore14-18\delays\9-delayf.dat
+* esperimenti\2013-07-12\ore14-18\delays\delayAll1-10.dat
+* esperimenti\2013-07-12\ore14-18\script.sh
+* esperimenti\2013-07-12\ore14-32\
+* esperimenti\2013-07-12\ore14-32\delays\
+* esperimenti\2013-07-12\ore14-32\delays\1-delaya.dat
+* esperimenti\2013-07-12\ore14-32\delays\1-delayb.dat
+* esperimenti\2013-07-12\ore14-32\delays\1-delayc.dat
+* esperimenti\2013-07-12\ore14-32\delays\1-delayd.dat
+* esperimenti\2013-07-12\ore14-32\delays\1-delaye.dat
+* esperimenti\2013-07-12\ore14-32\delays\1-delayf.dat
+* esperimenti\2013-07-12\ore14-32\delays\2-delaya.dat
+* esperimenti\2013-07-12\ore14-32\delays\2-delayb.dat
+* esperimenti\2013-07-12\ore14-32\delays\2-delayc.dat
+* esperimenti\2013-07-12\ore14-32\delays\2-delayd.dat
+* esperimenti\2013-07-12\ore14-32\delays\2-delaye.dat
+* esperimenti\2013-07-12\ore14-32\delays\2-delayf.dat
+* esperimenti\2013-07-12\ore14-32\delays\3-delaya.dat
+* esperimenti\2013-07-12\ore14-32\delays\3-delayb.dat
+* esperimenti\2013-07-12\ore14-32\delays\3-delayc.dat
+* esperimenti\2013-07-12\ore14-32\delays\3-delayd.dat
+* esperimenti\2013-07-12\ore14-32\delays\3-delaye.dat
+* esperimenti\2013-07-12\ore14-32\delays\3-delayf.dat
+* esperimenti\2013-07-12\ore14-32\delays\delayAll11-13.dat
+* esperimenti\2013-07-12\ore14-32\script.sh
+* esperimenti\2013-07-12\ore14-52\
+* esperimenti\2013-07-12\ore14-52\delays\
+* esperimenti\2013-07-12\ore14-52\delays\1-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\1-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\1-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\1-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\1-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\1-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\2-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\2-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\2-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\2-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\2-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\2-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\3-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\3-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\3-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\3-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\3-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\3-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\4-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\4-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\4-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\4-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\4-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\4-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\5-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\5-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\5-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\5-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\5-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\5-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\6-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\6-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\6-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\6-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\6-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\6-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\7-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\7-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\7-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\7-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\7-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\7-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\8-delaya.dat
+* esperimenti\2013-07-12\ore14-52\delays\8-delayb.dat
+* esperimenti\2013-07-12\ore14-52\delays\8-delayc.dat
+* esperimenti\2013-07-12\ore14-52\delays\8-delayd.dat
+* esperimenti\2013-07-12\ore14-52\delays\8-delaye.dat
+* esperimenti\2013-07-12\ore14-52\delays\8-delayf.dat
+* esperimenti\2013-07-12\ore14-52\delays\delayAll14-21.dat
+* esperimenti\2013-07-12\ore14-52\script.sh
+* esperimenti\2013-07-12\ore15-20\
+* esperimenti\2013-07-12\ore15-20\delays\
+* esperimenti\2013-07-12\ore15-20\delays\1-delaya.dat
+* esperimenti\2013-07-12\ore15-20\delays\1-delayb.dat
+* esperimenti\2013-07-12\ore15-20\delays\1-delayc.dat
+* esperimenti\2013-07-12\ore15-20\delays\1-delayd.dat
+* esperimenti\2013-07-12\ore15-20\delays\1-delaye.dat
+* esperimenti\2013-07-12\ore15-20\delays\1-delayf.dat
+* esperimenti\2013-07-12\ore15-20\delays\2-delaya.dat
+* esperimenti\2013-07-12\ore15-20\delays\2-delayb.dat
+* esperimenti\2013-07-12\ore15-20\delays\2-delayc.dat
+* esperimenti\2013-07-12\ore15-20\delays\2-delayd.dat
+* esperimenti\2013-07-12\ore15-20\delays\2-delaye.dat
+* esperimenti\2013-07-12\ore15-20\delays\2-delayf.dat
+* esperimenti\2013-07-12\ore15-20\delays\3-delaya.dat
+* esperimenti\2013-07-12\ore15-20\delays\3-delayb.dat
+* esperimenti\2013-07-12\ore15-20\delays\3-delayc.dat
+* esperimenti\2013-07-12\ore15-20\delays\3-delayd.dat
+* esperimenti\2013-07-12\ore15-20\delays\3-delaye.dat
+* esperimenti\2013-07-12\ore15-20\delays\3-delayf.dat
+* esperimenti\2013-07-12\ore15-20\delays\4-delaya.dat
+* esperimenti\2013-07-12\ore15-20\delays\4-delayb.dat
+* esperimenti\2013-07-12\ore15-20\delays\4-delayc.dat
+* esperimenti\2013-07-12\ore15-20\delays\4-delayd.dat
+* esperimenti\2013-07-12\ore15-20\delays\4-delaye.dat
+* esperimenti\2013-07-12\ore15-20\delays\4-delayf.dat
+* esperimenti\2013-07-12\ore15-20\delays\all22-25
+* esperimenti\2013-07-12\ore15-20\script.sh
+* esperimenti\2013-07-12\ore15-50\
+* esperimenti\2013-07-12\ore15-50\delays\
+* esperimenti\2013-07-12\ore15-50\delays\1-delaya.dat
+* esperimenti\2013-07-12\ore15-50\delays\1-delayb.dat
+* esperimenti\2013-07-12\ore15-50\delays\1-delayc.dat
+* esperimenti\2013-07-12\ore15-50\delays\1-delayd.dat
+* esperimenti\2013-07-12\ore15-50\delays\1-delaye.dat
+* esperimenti\2013-07-12\ore15-50\delays\1-delayf.dat
+* esperimenti\2013-07-12\ore15-50\delays\2-delaya.dat
+* esperimenti\2013-07-12\ore15-50\delays\2-delayb.dat
+* esperimenti\2013-07-12\ore15-50\delays\2-delayc.dat
+* esperimenti\2013-07-12\ore15-50\delays\2-delayd.dat
+* esperimenti\2013-07-12\ore15-50\delays\2-delaye.dat
+* esperimenti\2013-07-12\ore15-50\delays\2-delayf.dat
+* esperimenti\2013-07-12\ore15-50\delays\3-delaya.dat
+* esperimenti\2013-07-12\ore15-50\delays\3-delayb.dat
+* esperimenti\2013-07-12\ore15-50\delays\3-delayc.dat
+* esperimenti\2013-07-12\ore15-50\delays\3-delayd.dat
+* esperimenti\2013-07-12\ore15-50\delays\3-delaye.dat
+* esperimenti\2013-07-12\ore15-50\delays\3-delayf.dat
+* esperimenti\2013-07-12\ore15-50\delays\4-delaya.dat
+* esperimenti\2013-07-12\ore15-50\delays\4-delayb.dat
+* esperimenti\2013-07-12\ore15-50\delays\4-delayc.dat
+* esperimenti\2013-07-12\ore15-50\delays\4-delayd.dat
+* esperimenti\2013-07-12\ore15-50\delays\4-delaye.dat
+* esperimenti\2013-07-12\ore15-50\delays\4-delayf.dat
+* esperimenti\2013-07-12\ore15-50\delays\5-delaya.dat
+* esperimenti\2013-07-12\ore15-50\delays\5-delayb.dat
+* esperimenti\2013-07-12\ore15-50\delays\5-delayc.dat
+* esperimenti\2013-07-12\ore15-50\delays\5-delayd.dat
+* esperimenti\2013-07-12\ore15-50\delays\5-delaye.dat
+* esperimenti\2013-07-12\ore15-50\delays\5-delayf.dat
+* esperimenti\2013-07-12\ore15-50\delays\6-delaya.dat
+* esperimenti\2013-07-12\ore15-50\delays\6-delayb.dat
+* esperimenti\2013-07-12\ore15-50\delays\6-delayc.dat
+* esperimenti\2013-07-12\ore15-50\delays\6-delayd.dat
+* esperimenti\2013-07-12\ore15-50\delays\6-delaye.dat
+* esperimenti\2013-07-12\ore15-50\delays\6-delayf.dat
+* esperimenti\2013-07-12\ore15-50\delays\all26-31
+* esperimenti\2013-07-12\ore15-50\script.sh
+* esperimenti\2013-07-15-14-04\
+* esperimenti\2013-07-15-14-04\1-delaya.dat
+* esperimenti\2013-07-15-14-04\1-delayb.dat
+* esperimenti\2013-07-15-14-04\1LOGa.dat
+* esperimenti\2013-07-15-14-04\1LOGb.dat
+* esperimenti\2013-07-15-14-04\1WPAa.dat
+* esperimenti\2013-07-15-14-04\1WPAb.dat
+* esperimenti\2013-07-15-14-04\LOGa.dat
+* esperimenti\2013-07-15-14-04\LOGb.dat
+* esperimenti\2013-07-15-14-04\WPAa.dat
+* esperimenti\2013-07-15-14-04\WPAb.dat
+* esperimenti\2013-07-15-14-04\script.sh
+* esperimenti\2013-07-15-14-11\
+* esperimenti\2013-07-15-14-11\1-delaya.dat
+* esperimenti\2013-07-15-14-11\1-delayb.dat
+* esperimenti\2013-07-15-14-11\1LOGa.dat
+* esperimenti\2013-07-15-14-11\1LOGb.dat
+* esperimenti\2013-07-15-14-11\1WPAa.dat
+* esperimenti\2013-07-15-14-11\1WPAb.dat
+* esperimenti\2013-07-15-14-11\2-delaya.dat
+* esperimenti\2013-07-15-14-11\2-delayb.dat
+* esperimenti\2013-07-15-14-11\2LOGa.dat
+* esperimenti\2013-07-15-14-11\2LOGb.dat
+* esperimenti\2013-07-15-14-11\2WPAa.dat
+* esperimenti\2013-07-15-14-11\2WPAb.dat
+* esperimenti\2013-07-15-14-11\3-delaya.dat
+* esperimenti\2013-07-15-14-11\3-delayb.dat
+* esperimenti\2013-07-15-14-11\3LOGa.dat
+* esperimenti\2013-07-15-14-11\3LOGb.dat
+* esperimenti\2013-07-15-14-11\3WPAa.dat
+* esperimenti\2013-07-15-14-11\3WPAb.dat
+* esperimenti\2013-07-15-14-11\LOGa.dat
+* esperimenti\2013-07-15-14-11\LOGb.dat
+* esperimenti\2013-07-15-14-11\WPAa.dat
+* esperimenti\2013-07-15-14-11\WPAb.dat
+* esperimenti\2013-07-15-14-11\script.sh
+* esperimenti\2013-07-15-14-23\
+* esperimenti\2013-07-15-14-23\1-delaya.dat
+* esperimenti\2013-07-15-14-23\1-delayb.dat
+* esperimenti\2013-07-15-14-23\1-delayc.dat
+* esperimenti\2013-07-15-14-23\1-delayd.dat
+* esperimenti\2013-07-15-14-23\1-delaye.dat
+* esperimenti\2013-07-15-14-23\1-delayf.dat
+* esperimenti\2013-07-15-14-23\1LOGa.dat
+* esperimenti\2013-07-15-14-23\1LOGb.dat
+* esperimenti\2013-07-15-14-23\1LOGc.dat
+* esperimenti\2013-07-15-14-23\1LOGd.dat
+* esperimenti\2013-07-15-14-23\1LOGe.dat
+* esperimenti\2013-07-15-14-23\1LOGf.dat
+* esperimenti\2013-07-15-14-23\1WPAa.dat
+* esperimenti\2013-07-15-14-23\1WPAb.dat
+* esperimenti\2013-07-15-14-23\1WPAc.dat
+* esperimenti\2013-07-15-14-23\1WPAd.dat
+* esperimenti\2013-07-15-14-23\1WPAe.dat
+* esperimenti\2013-07-15-14-23\1WPAf.dat
+* esperimenti\2013-07-15-14-23\2-delaya.dat
+* esperimenti\2013-07-15-14-23\2-delayb.dat
+* esperimenti\2013-07-15-14-23\2-delayc.dat
+* esperimenti\2013-07-15-14-23\2-delayd.dat
+* esperimenti\2013-07-15-14-23\2-delaye.dat
+* esperimenti\2013-07-15-14-23\2-delayf.dat
+* esperimenti\2013-07-15-14-23\2LOGa.dat
+* esperimenti\2013-07-15-14-23\2LOGb.dat
+* esperimenti\2013-07-15-14-23\2LOGc.dat
+* esperimenti\2013-07-15-14-23\2LOGd.dat
+* esperimenti\2013-07-15-14-23\2LOGe.dat
+* esperimenti\2013-07-15-14-23\2LOGf.dat
+* esperimenti\2013-07-15-14-23\2WPAa.dat
+* esperimenti\2013-07-15-14-23\2WPAb.dat
+* esperimenti\2013-07-15-14-23\2WPAc.dat
+* esperimenti\2013-07-15-14-23\2WPAd.dat
+* esperimenti\2013-07-15-14-23\2WPAe.dat
+* esperimenti\2013-07-15-14-23\2WPAf.dat
+* esperimenti\2013-07-15-14-23\3-delaya.dat
+* esperimenti\2013-07-15-14-23\3-delayb.dat
+* esperimenti\2013-07-15-14-23\3-delayc.dat
+* esperimenti\2013-07-15-14-23\3-delayd.dat
+* esperimenti\2013-07-15-14-23\3-delaye.dat
+* esperimenti\2013-07-15-14-23\3-delayf.dat
+* esperimenti\2013-07-15-14-23\3LOGa.dat
+* esperimenti\2013-07-15-14-23\3LOGb.dat
+* esperimenti\2013-07-15-14-23\3LOGc.dat
+* esperimenti\2013-07-15-14-23\3LOGd.dat
+* esperimenti\2013-07-15-14-23\3LOGe.dat
+* esperimenti\2013-07-15-14-23\3LOGf.dat
+* esperimenti\2013-07-15-14-23\3WPAa.dat
+* esperimenti\2013-07-15-14-23\3WPAb.dat
+* esperimenti\2013-07-15-14-23\3WPAc.dat
+* esperimenti\2013-07-15-14-23\3WPAd.dat
+* esperimenti\2013-07-15-14-23\3WPAe.dat
+* esperimenti\2013-07-15-14-23\3WPAf.dat
+* esperimenti\2013-07-15-14-23\4-delaya.dat
+* esperimenti\2013-07-15-14-23\4-delayb.dat
+* esperimenti\2013-07-15-14-23\4-delayc.dat
+* esperimenti\2013-07-15-14-23\4-delayd.dat
+* esperimenti\2013-07-15-14-23\4-delaye.dat
+* esperimenti\2013-07-15-14-23\4-delayf.dat
+* esperimenti\2013-07-15-14-23\4LOGa.dat
+* esperimenti\2013-07-15-14-23\4LOGb.dat
+* esperimenti\2013-07-15-14-23\4LOGc.dat
+* esperimenti\2013-07-15-14-23\4LOGd.dat
+* esperimenti\2013-07-15-14-23\4LOGe.dat
+* esperimenti\2013-07-15-14-23\4LOGf.dat
+* esperimenti\2013-07-15-14-23\4WPAa.dat
+* esperimenti\2013-07-15-14-23\4WPAb.dat
+* esperimenti\2013-07-15-14-23\4WPAc.dat
+* esperimenti\2013-07-15-14-23\4WPAd.dat
+* esperimenti\2013-07-15-14-23\4WPAe.dat
+* esperimenti\2013-07-15-14-23\4WPAf.dat
+* esperimenti\2013-07-15-14-23\5-delaya.dat
+* esperimenti\2013-07-15-14-23\5-delayb.dat
+* esperimenti\2013-07-15-14-23\5-delayc.dat
+* esperimenti\2013-07-15-14-23\5-delayd.dat
+* esperimenti\2013-07-15-14-23\5-delaye.dat
+* esperimenti\2013-07-15-14-23\5-delayf.dat
+* esperimenti\2013-07-15-14-23\5LOGa.dat
+* esperimenti\2013-07-15-14-23\5LOGb.dat
+* esperimenti\2013-07-15-14-23\5LOGc.dat
+* esperimenti\2013-07-15-14-23\5LOGd.dat
+* esperimenti\2013-07-15-14-23\5LOGe.dat
+* esperimenti\2013-07-15-14-23\5LOGf.dat
+* esperimenti\2013-07-15-14-23\5WPAa.dat
+* esperimenti\2013-07-15-14-23\5WPAb.dat
+* esperimenti\2013-07-15-14-23\5WPAc.dat
+* esperimenti\2013-07-15-14-23\5WPAd.dat
+* esperimenti\2013-07-15-14-23\5WPAe.dat
+* esperimenti\2013-07-15-14-23\5WPAf.dat
+* esperimenti\2013-07-15-14-23\LOGa.dat
+* esperimenti\2013-07-15-14-23\LOGb.dat
+* esperimenti\2013-07-15-14-23\LOGc.dat
+* esperimenti\2013-07-15-14-23\LOGd.dat
+* esperimenti\2013-07-15-14-23\LOGe.dat
+* esperimenti\2013-07-15-14-23\LOGf.dat
+* esperimenti\2013-07-15-14-23\WPAa.dat
+* esperimenti\2013-07-15-14-23\WPAb.dat
+* esperimenti\2013-07-15-14-23\WPAc.dat
+* esperimenti\2013-07-15-14-23\WPAd.dat
+* esperimenti\2013-07-15-14-23\WPAe.dat
+* esperimenti\2013-07-15-14-23\WPAf.dat
+* esperimenti\2013-07-15-14-23\delay\
+* esperimenti\2013-07-15-14-23\delay\1-delaya.dat
+* esperimenti\2013-07-15-14-23\delay\1-delayb.dat
+* esperimenti\2013-07-15-14-23\delay\1-delayc.dat
+* esperimenti\2013-07-15-14-23\delay\1-delayd.dat
+* esperimenti\2013-07-15-14-23\delay\1-delaye.dat
+* esperimenti\2013-07-15-14-23\delay\1-delayf.dat
+* esperimenti\2013-07-15-14-23\delay\2-delaya.dat
+* esperimenti\2013-07-15-14-23\delay\2-delayb.dat
+* esperimenti\2013-07-15-14-23\delay\2-delayc.dat
+* esperimenti\2013-07-15-14-23\delay\2-delayd.dat
+* esperimenti\2013-07-15-14-23\delay\2-delaye.dat
+* esperimenti\2013-07-15-14-23\delay\2-delayf.dat
+* esperimenti\2013-07-15-14-23\delay\3-delaya.dat
+* esperimenti\2013-07-15-14-23\delay\3-delayb.dat
+* esperimenti\2013-07-15-14-23\delay\3-delayc.dat
+* esperimenti\2013-07-15-14-23\delay\3-delayd.dat
+* esperimenti\2013-07-15-14-23\delay\3-delaye.dat
+* esperimenti\2013-07-15-14-23\delay\3-delayf.dat
+* esperimenti\2013-07-15-14-23\delay\4-delaya.dat
+* esperimenti\2013-07-15-14-23\delay\4-delayb.dat
+* esperimenti\2013-07-15-14-23\delay\4-delayc.dat
+* esperimenti\2013-07-15-14-23\delay\4-delayd.dat
+* esperimenti\2013-07-15-14-23\delay\4-delaye.dat
+* esperimenti\2013-07-15-14-23\delay\4-delayf.dat
+* esperimenti\2013-07-15-14-23\delay\5-delaya.dat
+* esperimenti\2013-07-15-14-23\delay\5-delayb.dat
+* esperimenti\2013-07-15-14-23\delay\5-delayc.dat
+* esperimenti\2013-07-15-14-23\delay\5-delayd.dat
+* esperimenti\2013-07-15-14-23\delay\5-delaye.dat
+* esperimenti\2013-07-15-14-23\delay\5-delayf.dat
+* esperimenti\2013-07-15-14-23\delay\alldelay.dat
+* esperimenti\2013-07-15-14-23\prova_WPAa.dat
+* esperimenti\2013-07-15-14-23\prova_WPAa.dat~
+* esperimenti\2013-07-15-14-23\script.sh
+* esperimenti\2013-07-15-14-23\wpa\
+* esperimenti\2013-07-15-14-23\wpa\1WPAa.dat
+* esperimenti\2013-07-15-14-23\wpa\1WPAb.dat
+* esperimenti\2013-07-15-14-23\wpa\1WPAc.dat
+* esperimenti\2013-07-15-14-23\wpa\1WPAd.dat
+* esperimenti\2013-07-15-14-23\wpa\1WPAe.dat
+* esperimenti\2013-07-15-14-23\wpa\1WPAf.dat
+* esperimenti\2013-07-15-14-23\wpa\2WPAa.dat
+* esperimenti\2013-07-15-14-23\wpa\2WPAb.dat
+* esperimenti\2013-07-15-14-23\wpa\2WPAc.dat
+* esperimenti\2013-07-15-14-23\wpa\2WPAd.dat
+* esperimenti\2013-07-15-14-23\wpa\2WPAe.dat
+* esperimenti\2013-07-15-14-23\wpa\2WPAf.dat
+* esperimenti\2013-07-15-14-23\wpa\3WPAa.dat
+* esperimenti\2013-07-15-14-23\wpa\3WPAa.dat~
+* esperimenti\2013-07-15-14-23\wpa\3WPAb.dat
+* esperimenti\2013-07-15-14-23\wpa\3WPAc.dat
+* esperimenti\2013-07-15-14-23\wpa\3WPAd.dat
+* esperimenti\2013-07-15-14-23\wpa\3WPAe.dat
+* esperimenti\2013-07-15-14-23\wpa\3WPAf.dat
+* esperimenti\2013-07-15-14-23\wpa\4WPAa.dat
+* esperimenti\2013-07-15-14-23\wpa\4WPAb.dat
+* esperimenti\2013-07-15-14-23\wpa\4WPAc.dat
+* esperimenti\2013-07-15-14-23\wpa\4WPAd.dat
+* esperimenti\2013-07-15-14-23\wpa\4WPAe.dat
+* esperimenti\2013-07-15-14-23\wpa\4WPAf.dat
+* esperimenti\2013-07-15-14-23\wpa\5WPAa.dat
+* esperimenti\2013-07-15-14-23\wpa\5WPAb.dat
+* esperimenti\2013-07-15-14-23\wpa\5WPAc.dat
+* esperimenti\2013-07-15-14-23\wpa\5WPAd.dat
+* esperimenti\2013-07-15-14-23\wpa\5WPAe.dat
+* esperimenti\2013-07-15-14-23\wpa\5WPAf.dat
+* esperimenti\2013-07-15-14-23\wpa\allWPA.dat
+* esperimenti\2013-07-15-14-23\wpa\allWPA.dat~
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1-delaya.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1-delayb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1-delayc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1-delayd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1-delaye.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1-delayf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1LOGa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1LOGb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1LOGc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1LOGd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1LOGe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1LOGf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1WPAa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1WPAb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1WPAc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1WPAd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1WPAe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\1WPAf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2-delaya.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2-delayb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2-delayc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2-delayd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2-delaye.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2-delayf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2LOGa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2LOGb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2LOGc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2LOGd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2LOGe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2LOGf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2WPAa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2WPAb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2WPAc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2WPAd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2WPAe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\2WPAf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3-delaya.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3-delayb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3-delayc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3-delayd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3-delaye.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3-delayf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3LOGa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3LOGb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3LOGc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3LOGd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3LOGe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3LOGf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3WPAa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3WPAb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3WPAc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3WPAd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3WPAe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\3WPAf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4-delaya.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4-delayb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4-delayc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4-delayd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4-delaye.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4-delayf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4LOGa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4LOGb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4LOGc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4LOGd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4LOGe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4LOGf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4WPAa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4WPAb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4WPAc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4WPAd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4WPAe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\4WPAf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5-delaya.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5-delayb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5-delayc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5-delayd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5-delaye.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5-delayf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5LOGa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5LOGb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5LOGc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5LOGd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5LOGe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5LOGf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5WPAa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5WPAb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5WPAc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5WPAd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5WPAe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\5WPAf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\LOGa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\LOGb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\LOGc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\LOGd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\LOGe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\LOGf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\WPAa.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\WPAb.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\WPAc.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\WPAd.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\WPAe.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\WPAf.dat
+* esperimenti\2013-07-15-14-57 (formattazione diversa)\script.sh
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\1WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\2WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\3WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\4WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\5WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\6WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\LOGa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\LOGb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\LOGc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\LOGd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\LOGe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\LOGf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\WPAa.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\WPAb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\WPAc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\WPAd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\WPAe.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\WPAf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\1-delaya.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\1-delayb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\1-delayc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\1-delayd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\1-delaye.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\1-delayf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\2-delaya.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\2-delayb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\2-delayc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\2-delayd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\2-delaye.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\2-delayf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\3-delaya.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\3-delayb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\3-delayc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\3-delayd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\3-delaye.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\3-delayf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\4-delaya.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\4-delayb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\4-delayc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\4-delayd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\4-delaye.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\4-delayf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\5-delaya.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\5-delayb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\5-delayc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\5-delayd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\5-delaye.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\5-delayf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\6-delaya.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\6-delayb.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\6-delayc.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\6-delayd.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\6-delaye.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\6-delayf.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\delays\alldelay.dat
+* esperimenti\2013-07-15-15-54 (senza scansione automatica)\script.sh
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\1WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\2WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\3WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\4WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\5WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\6WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\7WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\LOGa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\LOGb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\LOGc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\LOGd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\LOGe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\LOGf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\WPAa.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\WPAb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\WPAc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\WPAd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\WPAe.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\WPAf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\1-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\1-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\1-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\1-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\1-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\1-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\2-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\2-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\2-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\2-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\2-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\2-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\3-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\3-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\3-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\3-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\3-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\3-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\4-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\4-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\4-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\4-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\4-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\4-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\5-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\5-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\5-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\5-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\5-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\5-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\6-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\6-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\6-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\6-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\6-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\6-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\7-delaya.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\7-delayb.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\7-delayc.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\7-delayd.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\7-delaye.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\7-delayf.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\delays\alldelay.dat
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\script.sh
+* esperimenti\2013-07-15-16-18 (senza scansione automatica)\tempi.xls
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\0-delaya.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\0-delayb.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\1LOGa.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\1LOGb.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\1WPAa.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\1WPAb.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\1lightWPAa.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\1lightWPAb.dat
+* esperimenti\2013-07-18-00-06 (50 test autonomous)\script.sh
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\0-delaya.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\0-delayb.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\1LOGa.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\1LOGb.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\1WPAa.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\1WPAb.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\1lightWPAa.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\1lightWPAb.dat
+* esperimenti\2013-07-18-09-24 (50 test autonomous)\script.sh
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\0-delaya.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\0-delayb.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\1LOGa.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\1LOGb.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\1WPAa.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\1WPAb.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\1lightWPAa.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\1lightWPAb.dat
+* esperimenti\2013-07-18-10-00 (34 test autonomous)\script.sh
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\0-delaya.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\0-delayb.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\1LOGa.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\1LOGb.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\1WPAa.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\1WPAb.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\1lightWPAa.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\1lightWPAb.dat
+* esperimenti\2013-07-21-11-12 (90 test autonomous)\script.sh
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\0-delaya.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\0-delayb.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\1LOGa.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\1LOGb.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\1WPAa.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\1WPAb.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\1lightWPAa.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\1lightWPAb.dat
+* esperimenti\2013-07-21-11-38 (30 test autonomous)\script.sh
+* esperimenti\250 standard\
+* esperimenti\250 standard\resume250StandardC.txt
+* esperimenti\250 standard\resume250StandardC.txt~
+* esperimenti\250 standard\resume250StandardD.txt
+* esperimenti\250 standard\resume250StandardD.txt~
+* esperimenti\Test 1-8\
+* esperimenti\Test 1-8\delaya.dat
+* esperimenti\Test 1-8\delayb.dat
+* esperimenti\Test 1-8\delayc.dat
+* esperimenti\Test 1-8\delayd.dat
+* esperimenti\Test 1-8\delaye.dat
+* esperimenti\Test 1-8\delayf.dat
+* esperimenti\Test 1-8\wpasupplicantA.txt
+* esperimenti\Test 9-11\
+* esperimenti\Test 9-11\delaya.dat
+* esperimenti\Test 9-11\delayb.dat
+* esperimenti\Test 9-11\delayc.dat
+* esperimenti\Test 9-11\delayd.dat
+* esperimenti\Test 9-11\delaye.dat
+* esperimenti\Test 9-11\delayf.dat
+* esperimenti\Test 9-11\logB.txt
+* esperimenti\Test 9-11\logC.txt
+* esperimenti\Test 9-11\logD.txt
+* esperimenti\Test 9-11\logE.txt
+* esperimenti\Test 9-11\logF.txt
+* esperimenti\automated\
+* esperimenti\automated\1-delaya.dat~
+* esperimenti\automated\1-delayb.dat~
+* esperimenti\automated\1-delayc.dat~
+* esperimenti\automated\1-delayd.dat~
+* esperimenti\automated\1-delaye.dat~
+* esperimenti\automated\2-delaya.dat~
+* esperimenti\automated\2-delayb.dat~
+* esperimenti\automated\2-delayc.dat~
+* esperimenti\automated\2-delayd.dat~
+* esperimenti\automated\2-delaye.dat~
+* esperimenti\automated\Test da 1 a 2\
+* esperimenti\automated\Test da 1 a 2\1-delaya.dat
+* esperimenti\automated\Test da 1 a 2\1-delayb.dat
+* esperimenti\automated\Test da 1 a 2\1-delayc.dat
+* esperimenti\automated\Test da 1 a 2\1-delayd.dat
+* esperimenti\automated\Test da 1 a 2\1-delaye.dat
+* esperimenti\automated\Test da 1 a 2\1-delayf.dat
+* esperimenti\automated\Test da 1 a 2\2-delaya.dat
+* esperimenti\automated\Test da 1 a 2\2-delayb.dat
+* esperimenti\automated\Test da 1 a 2\2-delayc.dat
+* esperimenti\automated\Test da 1 a 2\2-delayd.dat
+* esperimenti\automated\Test da 1 a 2\2-delaye.dat
+* esperimenti\automated\Test da 1 a 2\2-delayf.dat
+* esperimenti\automated\Test da 1 a 2\all1.dat
+* esperimenti\automated\script.sh
+* esperimenti\deletionScriptAndKillAllLogcat.sh
+* esperimenti\excel\
+* esperimenti\excel\AllDiscovery.eps
+* esperimenti\excel\AllDiscoveryGroupFormation.eps
+* esperimenti\excel\AllGroupFormation.eps
+* esperimenti\excel\AutonomousDiscovery.png
+* esperimenti\excel\AutonomousDiscoveryGroupFormation.png
+* esperimenti\excel\AutonomousGroupFormation.png
+* esperimenti\excel\AverageDiscovery.eps
+* esperimenti\excel\AverageDiscovery.png
+* esperimenti\excel\AverageDiscoveryGroupFormation.eps
+* esperimenti\excel\AverageDiscoveryGroupFormation.png
+* esperimenti\excel\AverageDiscoveryGroupFormationSenzaTitolo.eps
+* esperimenti\excel\AverageDiscoverySenzaTitolo.eps
+* esperimenti\excel\AverageGroupFormation.eps
+* esperimenti\excel\AverageGroupFormation.png
+* esperimenti\excel\AverageGroupFormationSenzaTitolo.eps
+* esperimenti\excel\PersistentDiscoveryA.png
+* esperimenti\excel\PersistentDiscoveryB.png
+* esperimenti\excel\PersistentDiscoveryGroupFormationA.png
+* esperimenti\excel\PersistentDiscoveryGroupFormationB.png
+* esperimenti\excel\PersistentGroupFormationA.png
+* esperimenti\excel\PersistentGroupFormationB.png
+* esperimenti\excel\StandardDiscoveryA.png
+* esperimenti\excel\StandardDiscoveryB.png
+* esperimenti\excel\StandardDiscoveryGroupFormationA.png
+* esperimenti\excel\StandardDiscoveryGroupFormationB.png
+* esperimenti\excel\StandardGroupFormationA.png
+* esperimenti\excel\StandardGroupFormationB.png
+* esperimenti\excel\autonomous.ods
+* esperimenti\excel\autonomousA
+* esperimenti\excel\autonomousAOLD
+* esperimenti\excel\cdf.plt
+* esperimenti\excel\cdfAll.plt
+* esperimenti\excel\cdfAverage.plt
+* esperimenti\excel\definitivi\
+* esperimenti\excel\definitivi\AllDiscovery.png
+* esperimenti\excel\definitivi\AllDiscoveryGroupFormation.png
+* esperimenti\excel\definitivi\AllDiscoveryGroupFormationLog.png
+* esperimenti\excel\definitivi\AllDiscoveryLog.png
+* esperimenti\excel\definitivi\AllGroupFormation.png
+* esperimenti\excel\definitivi\AllGroupFormationLog.png
+* esperimenti\excel\definitivi\AverageDiscovery.png
+* esperimenti\excel\definitivi\AverageDiscoveryGroupFormation.png
+* esperimenti\excel\definitivi\AverageDiscoveryGroupFormationLog.png
+* esperimenti\excel\definitivi\AverageDiscoveryLog.png
+* esperimenti\excel\definitivi\AverageGroupFormation.png
+* esperimenti\excel\definitivi\AverageGroupFormationLog.png
+* esperimenti\excel\persistent.ods
+* esperimenti\excel\persistentAverage
+* esperimenti\excel\persistentC
+* esperimenti\excel\persistentD
+* esperimenti\excel\resume250StandardC.txt
+* esperimenti\excel\resume250StandardD.txt
+* esperimenti\excel\standardAverages
+* esperimenti\non_utilizzabili\
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\README
+* esperimenti\non_utilizzabili\2013-07-17-19-10 (crash)\script.sh
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\0-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-19-39 (50 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\0-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-20-36 (90 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\0-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-21-42 (90 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\0-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-22-40 (90 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\0-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-17-23-32 (90 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\51-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\51-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-19-10-38 (50 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\51-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\51-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-19-11-22 (50 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\51-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\51-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-19-12-03 (50 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\91-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\91-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-19-13-28 (90 test standard)\script.sh
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\0-delaya.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\0-delayb.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\1LOGa.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\1LOGb.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\1WPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\1WPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\1lightWPAa.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\1lightWPAb.dat
+* esperimenti\non_utilizzabili\2013-07-19-19 (90 test autonomous)\script.sh
+* esperimenti\persistent18-7-23-54_(49)\
+* esperimenti\persistent18-7-23-54_(49)\1LOGc.dat
+* esperimenti\persistent18-7-23-54_(49)\1LOGd.dat
+* esperimenti\persistent18-7-23-54_(49)\1WPAc.dat
+* esperimenti\persistent18-7-23-54_(49)\1WPAd.dat
+* esperimenti\persistent18-7-23-54_(49)\1lightWPAc.dat
+* esperimenti\persistent18-7-23-54_(49)\1lightWPAd.dat
+* esperimenti\persistent18-7-23-54_(49)\51-delayc.dat
+* esperimenti\persistent18-7-23-54_(49)\51-delayc.dat~
+* esperimenti\persistent18-7-23-54_(49)\51-delayd.dat
+* esperimenti\persistent18-7-23-54_(49)\script.sh
+* esperimenti\persistent18-7-23-54_(49)\tempi parsati\
+* esperimenti\persistent18-7-23-54_(49)\tempi parsati\49PersistentD.txt
+* esperimenti\persistent18-7-23-54_(49)\tempi parsati\49PersistentGF.txt
+* esperimenti\persistent18-7-23-54_(49)\tempi parsati\49PersistentGFD.txt
+* esperimenti\persistent19-7-15-16_(50)\
+* esperimenti\persistent19-7-15-16_(50)\1LOGc.dat
+* esperimenti\persistent19-7-15-16_(50)\1LOGd.dat
+* esperimenti\persistent19-7-15-16_(50)\1WPAc.dat
+* esperimenti\persistent19-7-15-16_(50)\1WPAd.dat
+* esperimenti\persistent19-7-15-16_(50)\1lightWPAc.dat
+* esperimenti\persistent19-7-15-16_(50)\1lightWPAd.dat
+* esperimenti\persistent19-7-15-16_(50)\52-delayc.dat
+* esperimenti\persistent19-7-15-16_(50)\52-delayd.dat
+* esperimenti\persistent19-7-15-16_(50)\script.sh
+* esperimenti\persistent19-7-16-03_(50)\
+* esperimenti\persistent19-7-16-03_(50)\1LOGc.dat
+* esperimenti\persistent19-7-16-03_(50)\1LOGd.dat
+* esperimenti\persistent19-7-16-03_(50)\1WPAc.dat
+* esperimenti\persistent19-7-16-03_(50)\1WPAd.dat
+* esperimenti\persistent19-7-16-03_(50)\1lightWPAc.dat
+* esperimenti\persistent19-7-16-03_(50)\1lightWPAd.dat
+* esperimenti\persistent19-7-16-03_(50)\52-delayc.dat
+* esperimenti\persistent19-7-16-03_(50)\52-delayd.dat
+* esperimenti\persistent19-7-16-03_(50)\script.sh
+* esperimenti\persistent19-7-16-47_(50)\
+* esperimenti\persistent19-7-16-47_(50)\1LOGc.dat
+* esperimenti\persistent19-7-16-47_(50)\1LOGd.dat
+* esperimenti\persistent19-7-16-47_(50)\1WPAc.dat
+* esperimenti\persistent19-7-16-47_(50)\1WPAd.dat
+* esperimenti\persistent19-7-16-47_(50)\1lightWPAc.dat
+* esperimenti\persistent19-7-16-47_(50)\1lightWPAd.dat
+* esperimenti\persistent19-7-16-47_(50)\52-delayc.dat
+* esperimenti\persistent19-7-16-47_(50)\52-delayd.dat
+* esperimenti\persistent19-7-16-47_(50)\script.sh
+* esperimenti\persistent19-7-17-51_(60)\
+* esperimenti\persistent19-7-17-51_(60)\1LOGc.dat
+* esperimenti\persistent19-7-17-51_(60)\1LOGd.dat
+* esperimenti\persistent19-7-17-51_(60)\1WPAc.dat
+* esperimenti\persistent19-7-17-51_(60)\1WPAd.dat
+* esperimenti\persistent19-7-17-51_(60)\1WPAd.dat.1
+* esperimenti\persistent19-7-17-51_(60)\1lightWPAc.dat
+* esperimenti\persistent19-7-17-51_(60)\1lightWPAd.dat
+* esperimenti\persistent19-7-17-51_(60)\62-delayc.dat
+* esperimenti\persistent19-7-17-51_(60)\62-delayd.dat
+* esperimenti\persistent19-7-17-51_(60)\script.sh
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\1LOGa.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\1LOGb.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\1WPAa.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\1WPAb.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\1lightWPAa.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\1lightWPAb.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\31-delaya.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\31-delayb.dat
+* esperimenti\persistent30-07-11-26_(30_ANDROID_4.3)\script.sh
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\1LOGa.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\1LOGb.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\1WPAa.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\1WPAb.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\1lightWPAa.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\1lightWPAb.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\31-delaya.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\31-delayb.dat
+* esperimenti\persistent30-07-15-29_(30_ANDROID_4.2.2)\script.sh
+* esperimenti\rebootAll.sh
+* esperimenti\resume.txt
+* esperimenti\resume.txt~
+* esperimenti\script.sh
+* esperimenti\standard19-7-20-17_(70)\
+* esperimenti\standard19-7-20-17_(70)\1LOGc.dat
+* esperimenti\standard19-7-20-17_(70)\1LOGd.dat
+* esperimenti\standard19-7-20-17_(70)\1WPAc.dat
+* esperimenti\standard19-7-20-17_(70)\1WPAd.dat
+* esperimenti\standard19-7-20-17_(70)\1lightWPAc.dat
+* esperimenti\standard19-7-20-17_(70)\1lightWPAd.dat
+* esperimenti\standard19-7-20-17_(70)\70Resultc.txt
+* esperimenti\standard19-7-20-17_(70)\70Resultd.txt
+* esperimenti\standard19-7-20-17_(70)\72-delayCD.dat
+* esperimenti\standard19-7-20-17_(70)\72-delayc.dat
+* esperimenti\standard19-7-20-17_(70)\72-delayd.dat
+* esperimenti\standard19-7-20-17_(70)\Risultati.xls
+* esperimenti\standard19-7-20-17_(70)\resume_70Resultc.txt
+* esperimenti\standard19-7-20-17_(70)\resume_70Resultd.txt
+* esperimenti\standard19-7-20-17_(70)\script.sh
+* esperimenti\standard19-7-22-10_(70)\
+* esperimenti\standard19-7-22-10_(70)\1LOGc.dat
+* esperimenti\standard19-7-22-10_(70)\1LOGd.dat
+* esperimenti\standard19-7-22-10_(70)\1WPAc.dat
+* esperimenti\standard19-7-22-10_(70)\1WPAd.dat
+* esperimenti\standard19-7-22-10_(70)\1lightWPAc.dat
+* esperimenti\standard19-7-22-10_(70)\1lightWPAd.dat
+* esperimenti\standard19-7-22-10_(70)\70Resultc.txt
+* esperimenti\standard19-7-22-10_(70)\70Resultd.txt
+* esperimenti\standard19-7-22-10_(70)\72-delayc.dat
+* esperimenti\standard19-7-22-10_(70)\72-delayd.dat
+* esperimenti\standard19-7-22-10_(70)\resume_70Resultc.txt
+* esperimenti\standard19-7-22-10_(70)\resume_70Resultd.txt
+* esperimenti\standard19-7-22-10_(70)\risultati2.xls
+* esperimenti\standard19-7-22-10_(70)\script.sh
+* esperimenti\standard19-7-23-26_(70)\
+* esperimenti\standard19-7-23-26_(70)\1LOGc.dat
+* esperimenti\standard19-7-23-26_(70)\1LOGd.dat
+* esperimenti\standard19-7-23-26_(70)\1WPAc.dat
+* esperimenti\standard19-7-23-26_(70)\1WPAd.dat
+* esperimenti\standard19-7-23-26_(70)\1lightWPAc.dat
+* esperimenti\standard19-7-23-26_(70)\1lightWPAd.dat
+* esperimenti\standard19-7-23-26_(70)\70Resultc.txt
+* esperimenti\standard19-7-23-26_(70)\70Resultd.txt
+* esperimenti\standard19-7-23-26_(70)\72-delayc.dat
+* esperimenti\standard19-7-23-26_(70)\72-delayd.dat
+* esperimenti\standard19-7-23-26_(70)\resume_70Resultc.txt
+* esperimenti\standard19-7-23-26_(70)\resume_70Resultd.txt
+* esperimenti\standard19-7-23-26_(70)\risultati3.xls
+* esperimenti\standard19-7-23-26_(70)\script.sh
+* esperimenti\standard20-7-09-53_(70)\
+* esperimenti\standard20-7-09-53_(70)\1LOGc.dat
+* esperimenti\standard20-7-09-53_(70)\1LOGd.dat
+* esperimenti\standard20-7-09-53_(70)\1WPAc.dat
+* esperimenti\standard20-7-09-53_(70)\1WPAd.dat
+* esperimenti\standard20-7-09-53_(70)\1lightWPAc.dat
+* esperimenti\standard20-7-09-53_(70)\1lightWPAd.dat
+* esperimenti\standard20-7-09-53_(70)\70Resultc.txt
+* esperimenti\standard20-7-09-53_(70)\70Resultd.txt
+* esperimenti\standard20-7-09-53_(70)\72-delayc.dat
+* esperimenti\standard20-7-09-53_(70)\72-delayd.dat
+* esperimenti\standard20-7-09-53_(70)\resume_70Resultc.txt
+* esperimenti\standard20-7-09-53_(70)\resume_70Resultd.txt
+* esperimenti\standard20-7-09-53_(70)\risultati4.xls
+* esperimenti\standard20-7-09-53_(70)\script.sh
+* esperimenti\tempi (senza scansione automatica).xls
+* esperimenti\tempi.xls
+* esperimenti\test4-1\
+* esperimenti\test4-1\1-delaya.dat
+* esperimenti\test4-1\1-delayd.dat
+* esperimenti\test4-1\1-delaye.dat
+* esperimenti\test4-1\1-delayf.dat
+* esperimenti\test4-1\1LOGa.dat
+* esperimenti\test4-1\1LOGd.dat
+* esperimenti\test4-1\1LOGe.dat
+* esperimenti\test4-1\1LOGf.dat
+* esperimenti\test4-1\1WPAa.dat
+* esperimenti\test4-1\1WPAd.dat
+* esperimenti\test4-1\1WPAe.dat
+* esperimenti\test4-1\1WPAf.dat
+* esperimenti\test4-1\1lightWPAa.dat
+* esperimenti\test4-1\1lightWPAd.dat
+* esperimenti\test4-1\1lightWPAe.dat
+* esperimenti\test4-1\1lightWPAf.dat
+* esperimenti\test4-1\script.sh
+* esperimenti\test4-2\
+* esperimenti\test4-2\1-delaya.dat
+* esperimenti\test4-2\1-delayd.dat
+* esperimenti\test4-2\1-delaye.dat
+* esperimenti\test4-2\1-delayf.dat
+* esperimenti\test4-2\1LOGa.dat
+* esperimenti\test4-2\1LOGd.dat
+* esperimenti\test4-2\1LOGe.dat
+* esperimenti\test4-2\1LOGf.dat
+* esperimenti\test4-2\1WPAa.dat
+* esperimenti\test4-2\1WPAd.dat
+* esperimenti\test4-2\1WPAe.dat
+* esperimenti\test4-2\1WPAf.dat
+* esperimenti\test4-2\1lightWPAa.dat
+* esperimenti\test4-2\1lightWPAd.dat
+* esperimenti\test4-2\1lightWPAe.dat
+* esperimenti\test4-2\1lightWPAf.dat
+* esperimenti\test4-2\script.sh
+* esperimenti\test4-3\
+* esperimenti\test4-3\1-delaya.dat
+* esperimenti\test4-3\1-delayd.dat
+* esperimenti\test4-3\1-delaye.dat
+* esperimenti\test4-3\1-delayf.dat
+* esperimenti\test4-3\1LOGa.dat
+* esperimenti\test4-3\1LOGd.dat
+* esperimenti\test4-3\1LOGe.dat
+* esperimenti\test4-3\1LOGf.dat
+* esperimenti\test4-3\1WPAa.dat
+* esperimenti\test4-3\1WPAd.dat
+* esperimenti\test4-3\1WPAe.dat
+* esperimenti\test4-3\1WPAf.dat
+* esperimenti\test4-3\1lightWPAa.dat
+* esperimenti\test4-3\1lightWPAd.dat
+* esperimenti\test4-3\1lightWPAe.dat
+* esperimenti\test4-3\1lightWPAf.dat
+* esperimenti\test4-3\script.sh
+* esperimenti\test4-4\
+* esperimenti\test4-4\1-delaya.dat
+* esperimenti\test4-4\1-delayd.dat
+* esperimenti\test4-4\1-delaye.dat
+* esperimenti\test4-4\1-delayf.dat
+* esperimenti\test4-4\1LOGa.dat
+* esperimenti\test4-4\1LOGd.dat
+* esperimenti\test4-4\1LOGe.dat
+* esperimenti\test4-4\1LOGf.dat
+* esperimenti\test4-4\1WPAa.dat
+* esperimenti\test4-4\1WPAd.dat
+* esperimenti\test4-4\1WPAe.dat
+* esperimenti\test4-4\1WPAf.dat
+* esperimenti\test4-4\1lightWPAa.dat
+* esperimenti\test4-4\1lightWPAd.dat
+* esperimenti\test4-4\1lightWPAe.dat
+* esperimenti\test4-4\1lightWPAf.dat
+* esperimenti\test4-4\script.sh
+* esperimenti\test4-5\
+* esperimenti\test4-5\1-delaya.dat
+* esperimenti\test4-5\1-delayd.dat
+* esperimenti\test4-5\1-delaye.dat
+* esperimenti\test4-5\1-delayf.dat
+* esperimenti\test4-5\1LOGa.dat
+* esperimenti\test4-5\1LOGd.dat
+* esperimenti\test4-5\1LOGe.dat
+* esperimenti\test4-5\1LOGf.dat
+* esperimenti\test4-5\1WPAa.dat
+* esperimenti\test4-5\1WPAd.dat
+* esperimenti\test4-5\1WPAe.dat
+* esperimenti\test4-5\1WPAf.dat
+* esperimenti\test4-5\1lightWPAa.dat
+* esperimenti\test4-5\1lightWPAd.dat
+* esperimenti\test4-5\1lightWPAe.dat
+* esperimenti\test4-5\1lightWPAf.dat
+* esperimenti\test4-5\script.sh
+* esperimenti\test4-6\
+* esperimenti\test4-6\1-delaya.dat
+* esperimenti\test4-6\1-delayd.dat
+* esperimenti\test4-6\1-delaye.dat
+* esperimenti\test4-6\1-delayf.dat
+* esperimenti\test4-6\1LOGa.dat
+* esperimenti\test4-6\1LOGd.dat
+* esperimenti\test4-6\1LOGe.dat
+* esperimenti\test4-6\1LOGf.dat
+* esperimenti\test4-6\1WPAa.dat
+* esperimenti\test4-6\1WPAd.dat
+* esperimenti\test4-6\1WPAe.dat
+* esperimenti\test4-6\1WPAf.dat
+* esperimenti\test4-6\1lightWPAa.dat
+* esperimenti\test4-6\1lightWPAd.dat
+* esperimenti\test4-6\1lightWPAe.dat
+* esperimenti\test4-6\1lightWPAf.dat
+* esperimenti\test4-6\script.sh
+* esperimenti\test4-7\
+* esperimenti\test4-7\1-delaya.dat
+* esperimenti\test4-7\1-delayd.dat
+* esperimenti\test4-7\1-delaye.dat
+* esperimenti\test4-7\1-delayf.dat
+* esperimenti\test4-7\1LOGa.dat
+* esperimenti\test4-7\1LOGd.dat
+* esperimenti\test4-7\1LOGe.dat
+* esperimenti\test4-7\1LOGf.dat
+* esperimenti\test4-7\1WPAa.dat
+* esperimenti\test4-7\1WPAd.dat
+* esperimenti\test4-7\1WPAe.dat
+* esperimenti\test4-7\1WPAf.dat
+* esperimenti\test4-7\1lightWPAa.dat
+* esperimenti\test4-7\1lightWPAd.dat
+* esperimenti\test4-7\1lightWPAe.dat
+* esperimenti\test4-7\1lightWPAf.dat
+* esperimenti\test4-7\script.sh
+* esperimenti\test4-8\
+* esperimenti\test4-8\1-delaya.dat
+* esperimenti\test4-8\1-delayd.dat
+* esperimenti\test4-8\1-delaye.dat
+* esperimenti\test4-8\1-delayf.dat
+* esperimenti\test4-8\1LOGa.dat
+* esperimenti\test4-8\1LOGd.dat
+* esperimenti\test4-8\1LOGe.dat
+* esperimenti\test4-8\1LOGf.dat
+* esperimenti\test4-8\1WPAa.dat
+* esperimenti\test4-8\1WPAd.dat
+* esperimenti\test4-8\1WPAe.dat
+* esperimenti\test4-8\1WPAf.dat
+* esperimenti\test4-8\1lightWPAa.dat
+* esperimenti\test4-8\1lightWPAd.dat
+* esperimenti\test4-8\1lightWPAe.dat
+* esperimenti\test4-8\1lightWPAf.dat
+* esperimenti\test4-8\script.sh
+* esperimenti\test4-9\
+* esperimenti\test4-9\1-delaya.dat
+* esperimenti\test4-9\1-delayd.dat
+* esperimenti\test4-9\1-delaye.dat
+* esperimenti\test4-9\1-delayf.dat
+* esperimenti\test4-9\1LOGa.dat
+* esperimenti\test4-9\1LOGd.dat
+* esperimenti\test4-9\1LOGe.dat
+* esperimenti\test4-9\1LOGf.dat
+* esperimenti\test4-9\1WPAa.dat
+* esperimenti\test4-9\1WPAd.dat
+* esperimenti\test4-9\1WPAe.dat
+* esperimenti\test4-9\1WPAf.dat
+* esperimenti\test4-9\1lightWPAa.dat
+* esperimenti\test4-9\1lightWPAd.dat
+* esperimenti\test4-9\1lightWPAe.dat
+* esperimenti\test4-9\1lightWPAf.dat
+* esperimenti\test4-9\script.sh
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => advertisementActivity\src\main\AndroidManifest.xml
+* res\ => advertisementActivity\src\main\res\
+* src\ => advertisementActivity\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
